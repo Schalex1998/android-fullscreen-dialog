@@ -18,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void openDialog() {
-
+        ExampleDialog.display(getSupportFragmentManager());
     }
 }
