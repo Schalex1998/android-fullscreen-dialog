@@ -5,4 +5,4 @@ This project is explained in my corresponding blog post [Implementing the new Ma
 The final result looks like this:
 
 
-<img width="40%" src="https://blog.alexanderschaefer.io/content/images/2018/10/Screenshot_20181012-161723_FullScreenDialog.jpg" alt="Android FullScreen Material Design DialogFragment" style="border:1px solid #021a40; width: 40%;"/></br>
+<img width="40%" src="https://blog.alexanderschaefer.io/content/images/2018/10/dialog.gif" alt="Android FullScreen Material Design DialogFragment" style="border:1px solid #021a40; width: 40%;"/></br>
